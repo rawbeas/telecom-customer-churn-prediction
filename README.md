@@ -89,4 +89,4 @@ Evaluated models using:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Martinaperes/telecom-churn-prediction.git
+   git clone https://github.com/rawbeas/telecom-customer-churn-prediction.git
